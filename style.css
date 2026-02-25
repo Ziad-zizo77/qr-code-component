@@ -12,7 +12,7 @@
   --shadow: rgba(0,0,0,0.0477)
 }
 body {
-  padding: calc(27.5/16)rem;
+  padding: calc(27.5rem / 16);
   display: flex;
   justify-content: center;
   align-items: center;
